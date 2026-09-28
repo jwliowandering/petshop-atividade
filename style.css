@@ -1,0 +1,46 @@
+/* TEXTOS */
+
+.tagtext, .tagtext2, .ad1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 25px;
+
+}
+
+.tagtext{
+    font-size: 60px;
+    text-align: left;
+    background-color: rgb(121, 79, 79);
+    color: white;
+}
+
+.tagtext2{
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.hr{
+    background-color: rgb(121, 79, 79);
+}
+
+.adtext{
+    padding: 70px;
+
+}
+
+/* CAIXAS */
+
+.ad1{
+    flex-grow: 1;
+    font-size: 40px;
+}
+
+.ad2{
+    flex-grow: 1;
+    font-size: 40px;
+}
+
+.flex{
+display: flex;
+flex-direction: row;
+}
